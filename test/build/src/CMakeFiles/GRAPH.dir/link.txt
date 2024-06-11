@@ -1,0 +1,2 @@
+D:\MYSYS\ucrt64\bin\ar.exe qc libGRAPH.a "CMakeFiles/GRAPH.dir/C_/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/blacktest.cpp.obj"
+D:\MYSYS\ucrt64\bin\ranlib.exe libGRAPH.a

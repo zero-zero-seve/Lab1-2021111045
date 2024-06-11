@@ -1,0 +1,8 @@
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/CMakeFiles/black_test.dir
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/CMakeFiles/test.dir
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/src/CMakeFiles/MyLibrary.dir
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/src/CMakeFiles/test.dir
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/src/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/src/CMakeFiles/rebuild_cache.dir

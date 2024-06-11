@@ -1,0 +1,2 @@
+D:\MYSYS\ucrt64\bin\ar.exe qc libMyLibrary.a CMakeFiles/MyLibrary.dir/graph.cpp.obj CMakeFiles/MyLibrary.dir/main.cpp.obj CMakeFiles/MyLibrary.dir/readFile.cpp.obj
+D:\MYSYS\ucrt64\bin\ranlib.exe libMyLibrary.a
