@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Lenovo/Desktop/Lab1-2021111003-master",
+      "program": "c:/Users/Lenovo/Desktop/Lab1-2021111003-master/build/Release/outRelease",
+      "MIMode": "gdb",
+      "miDebuggerPath": "D:/MYSYS/ucrt64/bin/gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
