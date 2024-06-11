@@ -1,0 +1,461 @@
+Start testing: Jun 11 19:19 中国标准时间
+----------------------------------------------------------
+1/1 Testing: MyProgramTest
+1/1 Test: MyProgramTest
+Command: "C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build/black_test.exe"
+Directory: C:/Users/Lenovo/Desktop/lab3/2021111045-lab1/code/test/build
+"MyProgramTest" start time: Jun 11 19:19 中国标准时间
+Output:
+----------------------------------------------------------
+[==========] Running 9 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 3 tests from QUERY
+[ RUN      ] QUERY.bridgeWords_1
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] QUERY.bridgeWords_1 (3 ms)
+[ RUN      ] QUERY.bridgeWords_2
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] QUERY.bridgeWords_2 (1 ms)
+[ RUN      ] QUERY.bridgeWords_3
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] QUERY.bridgeWords_3 (1 ms)
+[----------] 3 tests from QUERY (5 ms total)
+
+[----------] 6 tests from WHITE
+[ RUN      ] WHITE.bridgeWords_1
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] WHITE.bridgeWords_1 (1 ms)
+[ RUN      ] WHITE.bridgeWords_2
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] WHITE.bridgeWords_2 (1 ms)
+[ RUN      ] WHITE.bridgeWords_3
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] WHITE.bridgeWords_3 (1 ms)
+[ RUN      ] WHITE.bridgeWords_4
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] WHITE.bridgeWords_4 (1 ms)
+[ RUN      ] WHITE.bridgeWords_6
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] WHITE.bridgeWords_6 (1 ms)
+[ RUN      ] WHITE.bridgeWords_7
+ no ones life is perfect all the time but whenever you have to look ahead you can go far with hope where the heart wants it always does life is like traveling backward a reed to sail a roc rises with the wind in a day like hello backward soaring to miles even if the wind rises life does not give up
+0:no
+1:ones
+2:life
+3:is
+4:perfect
+5:all
+6:the
+7:time
+8:but
+9:whenever
+10:you
+11:have
+12:to
+13:look
+14:ahead
+15:can
+16:go
+17:far
+18:with
+19:hope
+20:where
+21:heart
+22:wants
+23:it
+24:always
+25:does
+26:like
+27:traveling
+28:backward
+29:a
+30:reed
+31:sail
+32:roc
+33:rises
+34:wind
+35:in
+36:day
+37:hello
+38:soaring
+39:miles
+40:even
+41:if
+42:not
+43:give
+44:up
+[       OK ] WHITE.bridgeWords_7 (0 ms)
+[----------] 6 tests from WHITE (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 9 tests from 2 test suites ran. (11 ms total)
+[  PASSED  ] 9 tests.
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"MyProgramTest" end time: Jun 11 19:19 中国标准时间
+"MyProgramTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 11 19:19 中国标准时间

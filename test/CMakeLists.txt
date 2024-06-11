@@ -8,6 +8,12 @@ include_directories(../googletest-main/googletest/include)  # 包含gtest等头�
 include_directories(../googletest-main/googlemock/include)  # 包含gmock等头文件
 # include_directories(../googletest/lib) 
 
+# 设置编译选项以启用 gcov
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -fprofile-arcs -ftest-coverage")
+set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -fprofile-arcs -ftest-coverage")
+set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -lgcov")
+
+
 add_subdirectory(../src src)
 # 头文件目录
 include_directories("${CMAKE_CURRENT_SOURCE_DIR}/../../src/")
@@ -43,3 +49,5 @@ target_link_libraries(black_test
 
 # 添加测试
 enable_testing()
+# 添加测试
+add_test(NAME MyProgramTest COMMAND black_test)

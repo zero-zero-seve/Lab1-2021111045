@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = @CMakeFiles/black_test.dir/includes_CXX.rsp
 
-CXX_FLAGS = -std=gnu++14
+CXX_FLAGS =  -fprofile-arcs -ftest-coverage -std=gnu++14
 

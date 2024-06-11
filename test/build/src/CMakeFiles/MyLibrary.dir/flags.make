@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = @CMakeFiles/MyLibrary.dir/includes_CXX.rsp
 
-CXX_FLAGS = 
+CXX_FLAGS =  -fprofile-arcs -ftest-coverage -fprofile-arcs -ftest-coverage
 

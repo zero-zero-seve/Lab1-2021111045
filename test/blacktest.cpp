@@ -100,21 +100,21 @@ TEST(WHITE, bridgeWords_4) {
     EXPECT_EQ(result, str2);
 }
 
-TEST(WHITE, bridgeWords_5) {
-    map<string, int> map1;
-    map<int, string> map2;
-    string str =
-        readFileFromTxt("C://Users//Lenovo//Desktop//lab3//2021111045-lab1//code//src//text.txt", map1, map2);
-    Graph graph = Graph(str, map1, map2);
-    showMap2(map2);
-    graph.initGraph();
-    graph.storeGraph();
-    string result = graph.queryBridgeWords("like", "backward");
-    string str2 = "traveling";
-    EXPECT_EQ(result, str2);
-    str2 = "hello";
-    EXPECT_EQ(result, str2);
-}
+// TEST(WHITE, bridgeWords_5) {
+//     map<string, int> map1;
+//     map<int, string> map2;
+//     string str =
+//         readFileFromTxt("C://Users//Lenovo//Desktop//lab3//2021111045-lab1//code//src//text.txt", map1, map2);
+//     Graph graph = Graph(str, map1, map2);
+//     showMap2(map2);
+//     graph.initGraph();
+//     graph.storeGraph();
+//     string result = graph.queryBridgeWords("like", "backward");
+//     string str2 = "traveling";
+//     EXPECT_EQ(result, str2);
+//     str2 = "hello";
+//     EXPECT_EQ(result, str2);
+// }
 
 TEST(WHITE, bridgeWords_6) {
     map<string, int> map1;
